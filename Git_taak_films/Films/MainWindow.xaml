@@ -9,7 +9,23 @@
     <Grid>
         <Image Margin="38,34,557,349" Source="/logo_pxl_digital.png" Stretch="Fill"/>
         <TextBox BorderBrush="Black" BorderThickness="3" HorizontalAlignment="Left" Margin="356,34,0,0" TextWrapping="Wrap" Text="PXL MovieDB" VerticalAlignment="Top" Width="366" Height="51" Background="{x:Null}" FontSize="30" TextAlignment="Center"/>
-        
+        <Button x:Name="Furiosa" HorizontalAlignment="Left" Margin="102,106,0,0" VerticalAlignment="Top" Height="253" Width="180">
+            <Button.Background>
+                <ImageBrush ImageSource="/furiosa.jpg"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Dune2" HorizontalAlignment="Left" Margin="323,106,0,0" VerticalAlignment="Top" Height="253" Width="180" Click="Dune2_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/dune2.jpg"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Thesubstance" HorizontalAlignment="Left" Margin="542,106,0,0" VerticalAlignment="Top" Height="253" Width="180">
+            <Button.Background>
+                <ImageBrush ImageSource="/thesubstance.jpg"/>
+            </Button.Background>
+        </Button>
+
+
 
 
 

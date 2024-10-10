@@ -20,5 +20,10 @@ namespace Films
         {
             InitializeComponent();
         }
+
+        private void Dune2_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
