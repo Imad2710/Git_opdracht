@@ -8,6 +8,9 @@
         Title="Film" Height="450" Width="800" Background="#58A518">
     <Grid>
         <Image Margin="38,34,557,349" Source="/logo_pxl_digital.png" Stretch="Fill"/>
+        <TextBox BorderBrush="Black" BorderThickness="3" HorizontalAlignment="Left" Margin="356,34,0,0" TextWrapping="Wrap" Text="PXL MovieDB" VerticalAlignment="Top" Width="366" Height="51" Background="{x:Null}" FontSize="30" TextAlignment="Center"/>
+        
+
 
 
     </Grid>
