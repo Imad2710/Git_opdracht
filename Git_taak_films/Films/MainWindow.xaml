@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="Film" Height="450" Width="800" Background="#58A518">
     <Grid>
+        <Image Margin="38,34,557,349" Source="/logo_pxl_digital.png" Stretch="Fill"/>
+
 
     </Grid>
 </Window>
